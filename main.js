@@ -34,9 +34,9 @@ function isiSemuaDaya(daftar) {
     daftar.forEach((x) => x.isiDaya(40));
 }
 
-const Avanza_3535 = new MobilBensin("Avanza_3262");
-const Ioniq_3535 = new MobilListrik("Ioniq_3262");
-const Beat_3535 = new MotorBensin("Beat_3262");
+const Avanza_3535 = new MobilBensin("Avanza_3535");
+const Ioniq_3535 = new MobilListrik("Ioniq_3535");
+const Beat_3535 = new MotorBensin("Beat_3535");
 
 Avanza_3535.info();
 Ioniq_3535.info();
